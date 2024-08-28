@@ -1,0 +1,29 @@
+header {
+    background-color: #ff0000;
+    padding: 30px;
+    text-align: center;
+  
+}
+
+
+  
+body {
+
+      .image {
+        margin: 10px;
+        width: calc(33.33% - 20px);
+        overflow: hidden;
+      }
+      .image img {
+        width: 100%;
+        height: auto;
+        transition: transform 0.5s;
+     }
+      .image:hover img {
+        transform: scale(1.1);
+ }
+
+ h1 body {
+
+
+}
